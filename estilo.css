@@ -1,0 +1,33 @@
+  body{
+       text-align: center;
+      }
+
+  header{
+          width: 100px%;
+          border: 3px solid #00bbbb;
+          background-color:#00ffff;
+         }
+
+  h1{
+     
+    }
+
+  p{
+    font-size:130%;
+   }
+
+  .div-img{}
+
+  .div-text{}
+
+  .borda1{
+          border: 5px solid #00bbbb;
+         }
+
+  .borda2{
+          border: 5px solid #ffa500;
+         }
+
+  .borda3{
+          border: 5px solid #00ffff;
+         }
